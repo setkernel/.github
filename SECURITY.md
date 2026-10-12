@@ -7,6 +7,6 @@ privately. Don't open a public issue.
   on the affected repository.
 - **Or email** [hello@setkernel.com](mailto:hello@setkernel.com) with "Security" in the subject.
 
-Please include what's affected, how to reproduce it, and the impact you expect. We acknowledge reports
+Please include what's affected, how to reproduce it, and the impact you expect. We aim to acknowledge reports
 within two business days and keep you updated until the issue is resolved. Please give us reasonable time
 to fix the issue before you disclose it.

@@ -28,7 +28,7 @@ person approves it before it ships. Infrastructure is defined as code and planne
 ### Open source
 | Project | What it is |
 |---|---|
-| [agent-plugins](https://github.com/setkernel/agent-plugins) | Our organisation-wide setup for AI coding agents: shared skills, subagents and rules |
+| [agent-plugins](https://github.com/setkernel/agent-plugins) | Our organization-wide setup for AI coding agents: shared skills, subagents and rules |
 | [dotted-map-next](https://github.com/setkernel/dotted-map-next) | Futuristic SVG maps filled with dots or hexagons, in TypeScript |
 | [autopilot](https://github.com/setkernel/autopilot) | One-command Windows Autopilot registration at OOBE, generic and secret-free |
 | [unifi-ddns](https://github.com/setkernel/unifi-ddns) | Cloudflare dynamic DNS for UniFi OS (fork of willswire/unifi-ddns) |
